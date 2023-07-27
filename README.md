@@ -1,4 +1,4 @@
-##   ㅤㅤ  ㅤㅤㅤ ㅤ  ㅤㅤㅤ ㅤ  Olá! Eu sou o Arthur Gabriel 🖐️ <img height="80em" src="https://cdn.discordapp.com/attachments/466968064676855808/1134116139778191471/picasion.com_700503e7071756f1ac7f35130bdf64cb.gif">
+##   ㅤㅤ  ㅤㅤㅤ ㅤ  ㅤㅤㅤ ㅤ  Olá! Eu sou o Arthur Gabriel 🖐️ <img style="border-radius: 50px;" height="80em" src="https://cdn.discordapp.com/attachments/466968064676855808/1134116139778191471/picasion.com_700503e7071756f1ac7f35130bdf64cb.gif">
 <br>
 
 <div>
