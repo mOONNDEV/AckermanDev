@@ -1,8 +1,13 @@
 ## Olá! Eu sou o Arthur Gabriel 🖐️
 <br>
 
-[![Arthur GitHub stats](https://github-readme-stats.vercel.app/api?username=AckermanDev&show_icons=true&theme=radical)](https://github.com/AckermanDev/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AckermanDev&layout=compact&theme=radical&langs_count=8)](https://github.com/AckermanDev/)
+<div>
+  <a href="https://github.com/ellen2121">
+  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=AckermanDev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AckermanDev&layout=compact&langs_count=7&theme=radical" />
+
+  <img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
+</div>
 
 
 ##   ㅤㅤㅤ (づ｡◕‿‿◕｡)づ ㅤ 𝚃𝚎𝚌𝚗𝚘𝚕𝚘𝚐𝚒𝚊𝚜 𝚚𝚞𝚎 𝚎𝚞 𝚞𝚜𝚘 𝚗𝚘 𝚖𝚎𝚞 𝚍𝚒𝚊 
@@ -29,6 +34,5 @@
 
 </div>
 <br>
-<br>
 
-![Snake animation](https://github.com/AckermanDev/AckermanDev/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
