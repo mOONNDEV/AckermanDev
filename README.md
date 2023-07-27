@@ -7,7 +7,7 @@
 ##   ㅤㅤㅤ (づ｡◕‿‿◕｡)づ ㅤ 𝚃𝚎𝚌𝚗𝚘𝚕𝚘𝚐𝚒𝚊𝚜 𝚚𝚞𝚎 𝚎𝚞 𝚞𝚜𝚘 𝚗𝚘 𝚖𝚎𝚞 𝚍𝚒𝚊 
 
 <div style="display: inline_bloc;">
-  ㅤㅤㅤㅤㅤㅤ  ㅤㅤㅤㅤㅤㅤ  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
+  ㅤㅤㅤㅤㅤㅤ  ㅤㅤㅤㅤㅤㅤ  ㅤㅤㅤㅤㅤㅤㅤㅤㅤ
   <img align="center" alt="arT-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="arT-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="arT-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
