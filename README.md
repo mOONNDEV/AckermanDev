@@ -1,4 +1,4 @@
-## Olá! Eu sou o Arthur Gabriel 🖐️
+## Olá! Eu sou o Arthur Gabriel 🖐️ <img height="80em" src="https://cdn.discordapp.com/attachments/466968064676855808/1134116139778191471/picasion.com_700503e7071756f1ac7f35130bdf64cb.gif">
 <br>
 
 <div>
@@ -19,6 +19,7 @@
   <img align="center" alt="arT-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="arT-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="arT-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  
 </div>
 <br>
 
@@ -34,5 +35,6 @@
 
 </div>
 <br>
+
 
 
