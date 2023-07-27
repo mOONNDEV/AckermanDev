@@ -18,6 +18,6 @@
  <div style="display: inline_bloc;">
    <br>
    
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([(https://www.instagram.com/_arthur.jpg_/))
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_arthur.jpg_)
 
 </div>
